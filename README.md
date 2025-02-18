@@ -2,10 +2,10 @@
 
 <!--
   <<< Author notes: Course header >>>
- 
+ # RESCUEDog
 -->
 
-# RESCUEDog
+
 
 </header>
 
