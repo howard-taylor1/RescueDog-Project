@@ -5,7 +5,7 @@
  
 -->
 
-The RESCUEDog Project unites an existing database of rescued animals with a company that looks for and trains rescue dogs. Grazioso Salvare, an international rescue animal training company, has teamed up with Global Rain to find rescue dogs in the Austin, Texas area.
+RESCUEDog
 
 </header>
 
@@ -16,7 +16,7 @@ The RESCUEDog Project unites an existing database of rescued animals with a comp
 
 ### Motivation
 
-Some dogs can be trained to find and help rescue humans or other animals. Finding these dogs is the motivation behind this project. Where better to start looking for these valuable service dogs than among the populations housed in animal shelters?
+The RESCUEDog Project unites an existing database of rescued animals with a company that looks for and trains rescue dogs. Grazioso Salvare, an international rescue animal training company, has teamed up with Global Rain to find rescue dogs in the Austin, Texas area. Some dogs can be trained to find and help rescue humans or other animals. Finding these dogs is the motivation behind this project. Where better to start looking for these valuable service dogs than among the populations housed in animal shelters?
 
 
 ### Installation
